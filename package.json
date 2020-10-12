@@ -1,0 +1,15 @@
+{
+  "name": "nespbot",
+  "version": "1.0.0",
+  "description": "Nespoli's telegram bot",
+  "main": "main.js",
+  "author": "NespoliBT",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  }
+}
